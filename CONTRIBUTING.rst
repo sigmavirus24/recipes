@@ -1,6 +1,3 @@
-Contributing
-------------
-
 If you want to make a contribution to these docs, fork the project on any of 
 the three places it is available (GitHub, BitBucket or Gitorious).
 
