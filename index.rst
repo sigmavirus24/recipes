@@ -8,7 +8,14 @@ The source can be found on GitHub_, BitBucket_, and Gitorious_ so pull
 requests will be accepted at all three places.
 
 .. toctree::
+    :maxdepth: 1
+
     pyserv
+
+Contributing
+============
+
+.. include:: CONTRIBUTING.rst
 
 Contributors
 ============
@@ -22,6 +29,13 @@ Editors
 -------
 
 .. include:: EDITORS.rst
+
+.. toctree::
+    :hidden:
+
+    CONTRIBUTING
+    AUTHORS
+    EDITORS
 
 .. links
 .. _GitHub: https://github.com/sigmavirus24/recipes

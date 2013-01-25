@@ -93,7 +93,7 @@ exclude_patterns = ['_build']
 # a list of builtin themes.
 #sys.path.append(os.path.abspath('_themes'))
 #html_theme_path = ['_themes']
-html_theme = 'haiku'
+html_theme = 'nature'
 #html_sidebars = {
 #        "**": []
 #        }
