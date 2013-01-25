@@ -11,9 +11,10 @@ the three places it is available (GitHub, BitBucket or Gitorious).
 - Please provide an explanation of situations where the code is useful and tag 
   your post with relevant words (to make it easily searchable).
 
-- All source code (unless it is incomplete) should be in a separate file and 
-  should be included in the text using the ``.. literalinclude::`` Sphinx 
-  directive. The file should reside in the ``source/`` directory. For example:
+- All source code longer than 25 lines (unless it is incomplete) should be in 
+  a separate file and should be included in the text using the ``..  
+  literalinclude::`` Sphinx directive. The file should reside in the 
+  ``source/`` directory. For example:
 
   ::
 

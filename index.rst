@@ -7,6 +7,9 @@ well as standard library packages developed by myself and (hopefully) others.
 The source can be found on GitHub_, BitBucket_, and Gitorious_ so pull 
 requests will be accepted at all three places.
 
+.. toctree::
+    pyserv
+
 Contributors
 ============
 
