@@ -1,4 +1,4 @@
-Advanced Python Recipes
+Assorted Python Recipes
 =======================
 
 This *will* be a easy and searchable set of recipes for popular packages as 
@@ -10,7 +10,15 @@ requests will be accepted at all three places.
 Contributors
 ============
 
+Authors
+-------
+
 .. include:: AUTHORS.rst
+
+Editors
+-------
+
+.. include:: EDITORS.rst
 
 .. links
 .. _GitHub: https://github.com/sigmavirus24/recipes
