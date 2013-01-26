@@ -1,9 +1,9 @@
 pyserv: A simple bash function to use SimpleHTTPServer
 ======================================================
 
-:author: Ian Cordasco
-:origin: http://www.coglib.com/~icordasc/blog/2012/11/one-liners.html
-:tags: bash, python, SimpleHTTPServer, screen,
+:Author: Ian Cordasco
+:Origin: http://www.coglib.com/~icordasc/blog/2012/11/one-liners.html
+:Tags: bash, python, SimpleHTTPServer, screen,
 
 The Final Code
 --------------
@@ -16,7 +16,7 @@ The Final Code
         else
             port="8000"
         fi
-        
+
         old_dir="$(pwd)"
 
         if [[ -n $2 ]] ; then
@@ -100,7 +100,7 @@ this resulted in the final iteration of this function.
         else
             port="8000"
         fi
-        
+
         old_dir="$(pwd)"
 
         if [[ -n $2 ]] ; then
