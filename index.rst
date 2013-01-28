@@ -11,6 +11,7 @@ requests will be accepted at all three places.
     :maxdepth: 1
 
     pyserv
+    logging_in_requests
 
 Contributing
 ============
